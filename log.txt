@@ -1,0 +1,333 @@
+[Mon Jun 07 20:39:53 BST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Mon Jun 07 20:41:33 BST 2021] DESKTOP-BOQELHC/192.168.1.64:7142/TCP
+[Mon Jun 07 20:41:33 BST 2021] DESKTOP-BOQELHC/192.168.1.64:9031/UDP
+[Mon Jun 07 20:41:34 BST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Mon Jun 07 20:41:34 BST 2021] Nova conexão com [127.0.0.1]
+[Mon Jun 07 20:41:38 BST 2021] 127.0.0.1: Thread-0: 1
+[Mon Jun 07 20:41:39 BST 2021] 127.0.0.1: Thread-0: 0
+[Mon Jun 07 20:41:42 BST 2021] 127.0.0.1: Thread-0: 4
+[Mon Jun 07 20:41:42 BST 2021] 127.0.0.1: Thread-0: 5
+[Mon Jun 07 20:44:22 BST 2021] TCP >DESKTOP-BOQELHC/192.168.1.64:7142
+[Mon Jun 07 20:44:22 BST 2021] UDP >DESKTOP-BOQELHC/192.168.1.64:9031
+[Mon Jun 07 20:44:24 BST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Mon Jun 07 20:44:25 BST 2021] 127.0.0.1: Thread-0: 0
+[Mon Jun 07 20:44:27 BST 2021] 127.0.0.1: Thread-0: 1
+[Mon Jun 07 20:51:12 BST 2021] TCP> DESKTOP-BOQELHC/192.168.1.64:7142
+[Mon Jun 07 20:51:12 BST 2021] UDP> DESKTOP-BOQELHC/192.168.1.64:9031
+[Mon Jun 07 20:51:16 BST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Mon Jun 07 20:51:21 BST 2021] 127.0.0.1: Thread-0: 0
+[Mon Jun 07 20:51:21 BST 2021] Enviado menu para > 127.0.0.1
+[Mon Jun 07 20:51:37 BST 2021] 127.0.0.1: Thread-0: 1
+[Mon Jun 07 20:51:37 BST 2021] Enviada a lista de online para > 127.0.0.1
+[Mon Jun 07 20:51:38 BST 2021] 127.0.0.1: Thread-0: 2
+[Mon Jun 07 20:51:42 BST 2021] O User > 127.0.0.1 enviou a mensagem "ola" para o User > /127.0.0.1
+[Mon Jun 07 20:53:50 BST 2021] TCP> DESKTOP-BOQELHC/192.168.1.64:7142
+[Mon Jun 07 20:53:50 BST 2021] UDP> DESKTOP-BOQELHC/192.168.1.64:9031
+[Wed Jun 09 12:34:40 WEST 2021] TCP> MacBook-Pro-de-Frederico.local/127.0.0.1:7142
+[Wed Jun 09 12:34:40 WEST 2021] UDP> MacBook-Pro-de-Frederico.local/127.0.0.1:9031
+[Wed Jun 09 12:34:42 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Wed Jun 09 12:34:44 WEST 2021] 127.0.0.1: Thread-0: 1
+[Wed Jun 09 12:34:44 WEST 2021] Enviada a lista de online para [127.0.0.1]
+[Wed Jun 09 12:34:46 WEST 2021] 127.0.0.1: Thread-0: 5
+[Wed Jun 09 12:34:46 WEST 2021] Enviada a lista negra para [127.0.0.1]
+[Wed Jun 09 12:34:46 WEST 2021] 127.0.0.1: Thread-0: 4
+[Wed Jun 09 12:34:46 WEST 2021] Enviada a lista branca para [127.0.0.1]
+[Wed Jun 09 12:42:22 WEST 2021] TCP > MacBook-Pro-de-Frederico.local/127.0.0.1:7142
+[Wed Jun 09 12:42:22 WEST 2021] UDP > MacBook-Pro-de-Frederico.local/127.0.0.1:9031
+[Wed Jun 09 12:42:27 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Wed Jun 09 12:42:28 WEST 2021] 127.0.0.1: Thread-0: 1
+[Wed Jun 09 12:42:28 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Wed Jun 09 12:42:48 WEST 2021] TCP > MacBook-Pro-de-Frederico.local/127.0.0.1:7142
+[Wed Jun 09 12:42:48 WEST 2021] UDP > MacBook-Pro-de-Frederico.local/127.0.0.1:9031
+[Wed Jun 09 12:42:53 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Wed Jun 09 12:43:02 WEST 2021] 127.0.0.1: Thread-0: 1
+[Wed Jun 09 12:43:02 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Wed Jun 09 12:43:13 WEST 2021] TCP > MacBook-Pro-de-Frederico.local/127.0.0.1:7142
+[Wed Jun 09 12:43:13 WEST 2021] UDP > MacBook-Pro-de-Frederico.local/127.0.0.1:9031
+[Wed Jun 09 12:43:17 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Wed Jun 09 12:44:00 WEST 2021] TCP > MacBook-Pro-de-Frederico.local/127.0.0.1:7142
+[Wed Jun 09 12:44:00 WEST 2021] UDP > MacBook-Pro-de-Frederico.local/127.0.0.1:9031
+[Wed Jun 09 12:44:11 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Wed Jun 09 12:44:13 WEST 2021] 127.0.0.1: Thread-0: 1
+[Wed Jun 09 12:44:13 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Wed Jun 09 12:44:14 WEST 2021] 127.0.0.1: Thread-0: 2
+[Wed Jun 09 12:44:15 WEST 2021] O User > 127.0.0.1 enviou a mensagem "1" para o User [127.0.0.1]
+[Wed Jun 09 12:44:40 WEST 2021] TCP > MacBook-Pro-de-Frederico.local/127.0.0.1:7142
+[Wed Jun 09 12:44:40 WEST 2021] UDP > MacBook-Pro-de-Frederico.local/127.0.0.1:9031
+[Wed Jun 09 12:44:43 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Wed Jun 09 12:44:55 WEST 2021] TCP > MacBook-Pro-de-Frederico.local/127.0.0.1:7142
+[Wed Jun 09 12:44:55 WEST 2021] UDP > MacBook-Pro-de-Frederico.local/127.0.0.1:9031
+[Wed Jun 09 12:45:01 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Wed Jun 09 12:45:03 WEST 2021] 127.0.0.1: Thread-0: 1
+[Wed Jun 09 12:45:03 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 13:01:32 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:01:32 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:01:56 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:01:56 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:13:42 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:13:42 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:13:51 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:14:53 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:14:56 WEST 2021] 127.0.0.1: Thread-1: 1
+[Thu Jun 10 13:14:56 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 13:16:06 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:16:06 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:16:12 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:16:13 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 13:16:13 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 13:17:08 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:17:08 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:17:21 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:17:24 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 13:17:24 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 13:17:32 WEST 2021] 127.0.0.1: Thread-0: 5
+[Thu Jun 10 13:17:32 WEST 2021] Enviada a lista negra para [127.0.0.1]
+[Thu Jun 10 13:20:30 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:20:32 WEST 2021] 127.0.0.1: Thread-1: 1
+[Thu Jun 10 13:20:32 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 13:20:38 WEST 2021] 127.0.0.1: Thread-1: 2
+[Thu Jun 10 13:20:41 WEST 2021] O User > 127.0.0.1 enviou a mensagem "1" para o User [127.0.0.1]
+[Thu Jun 10 13:21:42 WEST 2021] 127.0.0.1: Thread-1: 8
+[Thu Jun 10 13:21:42 WEST 2021] O User [127.0.0.1] escolheu um comando inválido (8)
+[Thu Jun 10 13:24:12 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:24:12 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:29:39 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:29:40 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 13:29:40 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 13:29:50 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:29:50 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:29:57 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:29:59 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 13:29:59 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 13:33:34 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:33:34 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:33:46 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:33:50 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 13:33:50 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 13:37:40 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:37:40 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:37:51 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:37:54 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 13:37:54 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 13:41:09 WEST 2021] 127.0.0.1: Thread-0: 2
+[Thu Jun 10 13:44:53 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:44:53 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:45:04 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:45:06 WEST 2021] 127.0.0.1: Thread-0: 2
+[Thu Jun 10 13:45:18 WEST 2021] O User > 127.0.0.1 enviou a mensagem "oi" para o User [127.0.0.1]
+[Thu Jun 10 13:46:14 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:46:14 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:46:22 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:46:51 WEST 2021] 127.0.0.1: Thread-0: 2
+[Thu Jun 10 13:47:39 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:47:39 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:47:47 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:47:48 WEST 2021] 127.0.0.1: Thread-0: 2
+[Thu Jun 10 13:47:51 WEST 2021] 127.0.0.1: Thread-0: 2
+[Thu Jun 10 13:49:00 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:49:00 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:49:10 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:49:13 WEST 2021] 127.0.0.1: Thread-0: 2
+[Thu Jun 10 13:49:17 WEST 2021] 127.0.0.1: Thread-0: 4
+[Thu Jun 10 13:49:17 WEST 2021] Enviada a lista branca para [127.0.0.1]
+[Thu Jun 10 13:53:07 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:53:07 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:53:10 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:53:15 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 13:53:15 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 13:53:16 WEST 2021] 127.0.0.1: Thread-0: 2
+[Thu Jun 10 13:53:21 WEST 2021] 127.0.0.1: Thread-0: 4
+[Thu Jun 10 13:53:21 WEST 2021] Enviada a lista branca para [127.0.0.1]
+[Thu Jun 10 13:53:28 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 13:53:28 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 13:53:33 WEST 2021] 127.0.0.1: Thread-0: 2
+[Thu Jun 10 13:55:39 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:55:39 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:55:47 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:55:51 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 13:55:51 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 13:55:52 WEST 2021] 127.0.0.1: Thread-0: 2
+[Thu Jun 10 13:56:55 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:56:55 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:57:03 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:57:08 WEST 2021] 127.0.0.1: Thread-0: 2
+[Thu Jun 10 13:58:21 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:58:21 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:58:32 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:58:34 WEST 2021] 127.0.0.1: Thread-0: 2
+[Thu Jun 10 13:58:54 WEST 2021] O User > 127.0.0.1 enviou a mensagem "0" para o User [127.0.0.1]
+[Thu Jun 10 13:58:54 WEST 2021] 127.0.0.1: Thread-0: 0
+[Thu Jun 10 13:58:54 WEST 2021] Enviado menu para > 127.0.0.1
+[Thu Jun 10 13:58:55 WEST 2021] 127.0.0.1: Thread-0: 0
+[Thu Jun 10 13:58:55 WEST 2021] Enviado menu para > 127.0.0.1
+[Thu Jun 10 13:58:55 WEST 2021] 127.0.0.1: Thread-0: 0
+[Thu Jun 10 13:58:55 WEST 2021] Enviado menu para > 127.0.0.1
+[Thu Jun 10 13:59:31 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 13:59:31 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 13:59:37 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 13:59:42 WEST 2021] 127.0.0.1: Thread-0: 3
+[Thu Jun 10 14:00:16 WEST 2021] O User [127.0.0.1] enviou a mensagem "oi" para todos os Users
+[Thu Jun 10 14:00:18 WEST 2021] 127.0.0.1: Thread-0: 2
+[Thu Jun 10 14:02:04 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 14:02:05 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 14:02:17 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 14:02:20 WEST 2021] 127.0.0.1: Thread-0: 2
+[Thu Jun 10 14:02:27 WEST 2021] O User > 127.0.0.1 enviou a mensagem "1" para o User [127.0.0.1]
+[Thu Jun 10 14:02:27 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 14:02:27 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 14:02:28 WEST 2021] 127.0.0.1: Thread-0: 2
+[Thu Jun 10 14:17:31 WEST 2021] O User > 127.0.0.1 enviou a mensagem "1" para o User [127.0.0.1]
+[Thu Jun 10 14:17:32 WEST 2021] 127.0.0.1: Thread-0: 2
+[Thu Jun 10 14:17:35 WEST 2021] O User > 127.0.0.1 enviou a mensagem "oioi" para o User [127.0.0.1]
+[Thu Jun 10 14:17:36 WEST 2021] 127.0.0.1: Thread-0: 5
+[Thu Jun 10 14:17:37 WEST 2021] Enviada a lista negra para [127.0.0.1]
+[Thu Jun 10 14:17:53 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 14:17:53 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 14:18:02 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 14:18:05 WEST 2021] 127.0.0.1: Thread-0: 5
+[Thu Jun 10 14:18:05 WEST 2021] Enviada a lista negra para [127.0.0.1]
+[Thu Jun 10 14:18:07 WEST 2021] 127.0.0.1: Thread-0: 4
+[Thu Jun 10 14:18:07 WEST 2021] Enviada a lista branca para [127.0.0.1]
+[Thu Jun 10 14:18:09 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 14:18:09 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 14:18:09 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 14:18:09 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 14:18:10 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 14:18:10 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 14:18:10 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 14:18:10 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 14:18:10 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 14:18:10 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 14:18:10 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 14:18:10 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 14:18:10 WEST 2021] 127.0.0.1: Thread-0: 11
+[Thu Jun 10 14:18:10 WEST 2021] O User [127.0.0.1] escolheu um comando inválido (11)
+[Thu Jun 10 14:18:11 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 14:18:11 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 14:18:11 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 14:18:11 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 14:18:11 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 14:18:11 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 14:18:12 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 14:18:12 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 14:18:12 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 14:18:12 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 14:18:12 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 14:18:12 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 14:18:13 WEST 2021] 127.0.0.1: Thread-0: 5
+[Thu Jun 10 14:18:13 WEST 2021] Enviada a lista negra para [127.0.0.1]
+[Thu Jun 10 14:18:14 WEST 2021] 127.0.0.1: Thread-0: 6
+[Thu Jun 10 14:18:14 WEST 2021] O User [127.0.0.1] escolheu um comando inválido (6)
+[Thu Jun 10 14:18:15 WEST 2021] 127.0.0.1: Thread-0: 7
+[Thu Jun 10 14:18:15 WEST 2021] O User [127.0.0.1] escolheu um comando inválido (7)
+[Thu Jun 10 14:18:17 WEST 2021] 127.0.0.1: Thread-0: 99
+[Thu Jun 10 14:18:17 WEST 2021] O cliente 127.0.0.1 desconectou-se...
+[Thu Jun 10 14:18:24 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 14:18:26 WEST 2021] 127.0.0.1: Thread-1: 1
+[Thu Jun 10 14:18:26 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 15:00:05 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 15:00:05 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 15:00:12 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 15:00:12 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 15:02:20 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 15:02:35 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 15:02:35 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 15:05:00 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 15:05:00 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 15:05:10 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 15:05:13 WEST 2021] 127.0.0.1: Thread-0: 0
+[Thu Jun 10 15:05:13 WEST 2021] Enviado menu para > 127.0.0.1
+[Thu Jun 10 15:05:42 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 15:05:42 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 15:05:49 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 15:05:57 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 15:05:57 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 15:06:09 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 15:06:57 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 15:06:58 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 15:07:15 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 15:07:15 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 15:07:32 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 15:07:56 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 15:07:56 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 15:08:03 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 15:08:05 WEST 2021] 127.0.0.1: Thread-0: 0
+[Thu Jun 10 15:08:05 WEST 2021] Enviado menu para > 127.0.0.1
+[Thu Jun 10 15:08:07 WEST 2021] 127.0.0.1: Thread-0: 0
+[Thu Jun 10 15:08:07 WEST 2021] Enviado menu para > 127.0.0.1
+[Thu Jun 10 15:08:08 WEST 2021] 127.0.0.1: Thread-0: 0
+[Thu Jun 10 15:08:08 WEST 2021] Enviado menu para > 127.0.0.1
+[Thu Jun 10 15:08:09 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 15:08:09 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 15:08:29 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 15:08:37 WEST 2021] 127.0.0.1: Thread-1: 0
+[Thu Jun 10 15:08:37 WEST 2021] Enviado menu para > 127.0.0.1
+[Thu Jun 10 15:08:38 WEST 2021] 127.0.0.1: Thread-1: 0
+[Thu Jun 10 15:08:38 WEST 2021] Enviado menu para > 127.0.0.1
+[Thu Jun 10 15:08:47 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 15:08:47 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 15:09:14 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 15:09:14 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 15:09:20 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 15:09:22 WEST 2021] 127.0.0.1: Thread-0: 0
+[Thu Jun 10 15:09:22 WEST 2021] Enviado menu para > 127.0.0.1
+[Thu Jun 10 15:11:17 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 15:11:17 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 15:11:19 WEST 2021] 127.0.0.1: Thread-0: 5
+[Thu Jun 10 15:11:19 WEST 2021] Enviada a lista negra para [127.0.0.1]
+[Thu Jun 10 15:11:20 WEST 2021] 127.0.0.1: Thread-0: 6
+[Thu Jun 10 15:11:20 WEST 2021] O User [127.0.0.1] escolheu um comando inválido (6)
+[Thu Jun 10 15:11:27 WEST 2021] 127.0.0.1: Thread-0: 4
+[Thu Jun 10 15:11:27 WEST 2021] Enviada a lista branca para [127.0.0.1]
+[Thu Jun 10 15:11:30 WEST 2021] 127.0.0.1: Thread-0: 7
+[Thu Jun 10 15:11:30 WEST 2021] O User [127.0.0.1] escolheu um comando inválido (7)
+[Thu Jun 10 15:11:43 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 15:11:43 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 16:10:00 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 16:10:00 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 16:10:05 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 16:10:07 WEST 2021] 127.0.0.1: Thread-0: 1
+[Thu Jun 10 16:10:07 WEST 2021] Enviada a lista de online para > 127.0.0.1
+[Thu Jun 10 16:12:26 WEST 2021] 127.0.0.1: Thread-0: 99
+[Thu Jun 10 16:12:26 WEST 2021] O cliente 127.0.0.1 desconectou-se...
+[Thu Jun 10 16:12:32 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 16:12:35 WEST 2021] 127.0.0.1: Thread-1: 2
+[Thu Jun 10 16:12:58 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 16:13:01 WEST 2021] 127.0.0.1: Thread-2: 2
+[Thu Jun 10 16:13:05 WEST 2021] O User > 127.0.0.1 enviou a mensagem "Bom dia!" para o User [127.0.0.1]
+[Thu Jun 10 16:14:04 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 16:14:04 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 16:14:09 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 16:14:35 WEST 2021] 127.0.0.1: Thread-0: 2
+[Thu Jun 10 16:14:38 WEST 2021] O User > 127.0.0.1 enviou a mensagem "Bom dia!!" para o User [127.0.0.1]
+[Thu Jun 10 16:17:40 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 16:17:40 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 16:17:57 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 16:18:55 WEST 2021] 127.0.0.1: Thread-0: 2
+[Thu Jun 10 16:18:58 WEST 2021] O User > 127.0.0.1 enviou a mensagem "Bom dia!!" para o User [127.0.0.1]
+[Thu Jun 10 16:24:20 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 16:24:20 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 16:24:27 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 16:24:35 WEST 2021] 127.0.0.1: Thread-0: 3
+[Thu Jun 10 16:24:41 WEST 2021] O User [127.0.0.1] enviou a mensagem "Boa tarde!!" para todos os Users
+[Thu Jun 10 16:27:36 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 16:27:36 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 16:29:43 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 16:29:47 WEST 2021] 127.0.0.1: Thread-0: 4
+[Thu Jun 10 16:29:47 WEST 2021] Enviada a lista branca para [127.0.0.1]
+[Thu Jun 10 16:30:20 WEST 2021] 127.0.0.1: Thread-0: 5
+[Thu Jun 10 16:30:20 WEST 2021] Enviada a lista negra para [127.0.0.1]
+[Thu Jun 10 16:30:31 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 16:30:35 WEST 2021] 127.0.0.1: Thread-1: 5
+[Thu Jun 10 16:30:35 WEST 2021] Enviada a lista negra para [127.0.0.1]
+[Thu Jun 10 16:31:08 WEST 2021] 127.0.0.1: Thread-1: 99
+[Thu Jun 10 16:31:08 WEST 2021] O cliente 127.0.0.1 desconectou-se...
+[Thu Jun 10 16:31:15 WEST 2021] O cliente [127.0.0.1] tentou conectar-se, mas está na lista negra...
+[Thu Jun 10 16:31:26 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 16:31:26 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 16:31:28 WEST 2021] TCP > MBPdeFrederico/192.168.1.83:7142
+[Thu Jun 10 16:31:28 WEST 2021] UDP > MBPdeFrederico/192.168.1.83:9031
+[Thu Jun 10 16:31:35 WEST 2021] O cliente [127.0.0.1] tentou conectar-se, mas está na lista negra...
+[Thu Jun 10 16:34:07 WEST 2021] O cliente [127.0.0.1] conectou-se com sucesso!
+[Thu Jun 10 16:34:09 WEST 2021] 127.0.0.1: Thread-1: 99
+[Thu Jun 10 16:34:09 WEST 2021] O cliente 127.0.0.1 desconectou-se...
